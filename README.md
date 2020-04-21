@@ -14,7 +14,7 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
-<img src="/images/git_logo.png" width="50px" /> | **Git** - Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial)
+<img src="/images/git_logo.png" width="50px" /> | **Git** - Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
 
 
 ## Arquitetura de Software
