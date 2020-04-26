@@ -10,8 +10,6 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-
 <br>
 
 ## Iniciando
