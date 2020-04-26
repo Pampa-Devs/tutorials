@@ -8,8 +8,6 @@ Este repositório tem como objetivo é compartilhar tutoriais e projetos desenvo
 
 Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente. Você também pode contribuir com o seu projeto entrando em contato com nossos **moderadores** no nosso servidor do [discord](https://discord.gg/FvkzVcr).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
 <br>
 
 ## Iniciando
