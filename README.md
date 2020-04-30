@@ -22,3 +22,10 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
 <img src="/images/csharp.png" width="35px" /> <img src="/images/rebus.png" width="35px" /> | **Saga Pattern** - Implementação com .NET Core 3.1 e Rebus | [felipe-allmeida](https://github.com/felipe-allmeida) | [rebuswithrabbitmq](https://github.com/felipe-allmeida/RebusWithRabbitMQ)
+
+## Segurança
+
+|       | Projeto | Autores | Link
+------- | ------- | ------- | -------
+<img src="/images/sqlserver.png" width="35px" /> | **SQL IP Allow** - Segurança de filtros por IP/Range no SQL Server | [dliedke](https://github.com/dliedke) | [sqlipallow](https://github.com/dliedke/sqlipallow)
+
