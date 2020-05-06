@@ -2,7 +2,7 @@
      <img src="/images/horse.png" alt="Git" width="250px" />
 </p>
 
-# GoHorse Coding - Tutoriais
+# Pampa Devs - Tutoriais
 
 Este repositório tem como objetivo é compartilhar tutoriais e projetos desenvolvidos pelos membros de nossa comunidade para facilitar o seu aprendizado como desenvolvedor!
 
