@@ -11,11 +11,17 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 <br>
 
 ## Iniciando
-
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
 <img src="/images/git_logo.png" width="50px" /> | **Git** - Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
-<img src="/images/csharp.png" width="50px" /> | **.NET** - Introdução ao C# | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
+| **Fundamentos e Conceitos** de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [fundamentos](https://github.com/Pampa-Devs/concepts)
+
+
+## Tutoriais
+
+|       | Linguagens | Projeto | Autores | Link
+------- | ------- | ------- | ------- | -------
+<img src="/images/csharp.png" width="50px" /> | C# | **.NET** - Aplicação Console | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
 
 ## Arquitetura de Software
 
