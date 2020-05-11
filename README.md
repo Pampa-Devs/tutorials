@@ -30,7 +30,7 @@ Caso você queira, também pode checar o nosso canal no [**youtube**](https://ww
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
 <img src="/images/designpatterns.png" width="50px" /> | **Design Patterns** | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar) | [design-patterns](https://github.com/Pampa-Devs/design-patterns)
-<img src="/images/csharp.png" width="35px" /> <img src="/images/rebus.png" width="35px" /> | **Saga Pattern** - Implementação com .NET Core 3.1 e Rebus | [felipe-allmeida](https://github.com/felipe-allmeida) | [rebuswithrabbitmq](https://github.com/felipe-allmeida/RebusWithRabbitMQ)
+<img src="/images/rebus.png" width="50px" /> | **Saga Pattern** - Implementação com .NET Core 3.1 e Rebus | [felipe-allmeida](https://github.com/felipe-allmeida) | [rebuswithrabbitmq](https://github.com/felipe-allmeida/RebusWithRabbitMQ)
 
 ## Segurança
 
