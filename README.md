@@ -21,7 +21,7 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 
 |       | Linguagens | Projeto | Autores | Link
 ------- | ------- | ------- | ------- | -------
-<img src="/images/csharp.png" width="50px" /> | C# | **.NET** - Aplicação Console | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
+<img src="/images/csharp.png" width="50px" /> | **C#** | **.NET** - Aplicação Console | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
 
 ## Arquitetura de Software
 
