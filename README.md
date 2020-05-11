@@ -8,6 +8,8 @@ Este repositório tem como objetivo é compartilhar tutoriais e projetos desenvo
 
 Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente. Você também pode contribuir com o seu projeto entrando em contato com nossos **moderadores** no nosso servidor do [discord](https://discord.gg/FvkzVcr).
 
+Caso você queira, também pode checar o nosso canal no [**youtube**](https://www.youtube.com/channel/UC0qwajlgqCKFnyoTbsycMOg) para tutoriais em vídeo!
+
 <br>
 
 ## Iniciando
