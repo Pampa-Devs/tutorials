@@ -14,7 +14,7 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
 <img src="/images/git_logo.png" width="50px" /> | **Git** - Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
-| **Fundamentos e Conceitos** de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [fundamentos](https://github.com/Pampa-Devs/concepts)
+<img src="/images/book.png" width="50px" /> | **Fundamentos e Conceitos** de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [fundamentos](https://github.com/Pampa-Devs/concepts)
 
 
 ## Tutoriais
