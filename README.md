@@ -12,7 +12,7 @@ Caso você queira, também pode checar o nosso canal no [**youtube**](https://ww
 
 <br>
 
-## Série 4Starters - Aprenda o essencial para virar um desenvolvedor!
+## Série 4Starters
 Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listados aqui. Dentro de fundamentos e conceitos temos introdução a diferentes linguagens, escolha a que você se sentir mais confortável!
 
 |       | Projeto | Autores | Link
