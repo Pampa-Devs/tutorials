@@ -12,13 +12,13 @@ Caso você queira, também pode checar o nosso canal no [**youtube**](https://ww
 
 <br>
 
-## Iniciando
+## Série 4Starters - Aprenda o essencial para virar um desenvolvedor!
 Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listados aqui. Dentro de fundamentos e conceitos temos introdução a diferentes linguagens, escolha a que você se sentir mais confortável!
 
 |       | Projeto | Autores | Link
 ------- | ------- | ------- | -------
 <img src="/images/git_logo.png" width="50px" /> | **Git** - Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
-<img src="/images/book.png" width="50px" /> | **Fundamentos e Conceitos** de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [fundamentos](https://github.com/Pampa-Devs/concepts)
+<img src="/images/book.png" width="50px" /> | **4Starters** - Fundamentos e Conceitos de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [fundamentos](https://github.com/Pampa-Devs/4starters)
 
 
 ## Tutoriais
