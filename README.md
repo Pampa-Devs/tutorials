@@ -24,6 +24,7 @@ Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listad
 |       | Linguagens | Projeto | Autores | Link
 ------- | ------- | ------- | ------- | -------
 <img src="/images/csharp.png" width="50px" /> | **C#** | **.NET** - Aplicação Console | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
+<img src="/images/csharp.png" width="50px"> | **C#** | Criando uma API Restful com .NET Core 3.1 e Swagger | [felipe-allmeida](https://github.com/felipe-allmeida) | [swagger-tutorial](https://github.com/felipe-allmeida/SwaggerSample)
 
 ## Arquitetura de Software
 
