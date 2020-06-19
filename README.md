@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="/images/horse.png" alt="Git" width="250px" />
+     <img src="/images/mate.png" alt="Git" width="250px" />
 </p>
 
 # Pampa Devs - Tutoriais
