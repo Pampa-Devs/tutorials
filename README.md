@@ -43,4 +43,4 @@ Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listad
 
 |       | Projeto | Autores
 :---: | :--- | :---:
-<img src="/images/nodejs-new-pantone-black.svg" width="50px" /> | [**TypeScript** | NodeJS - RESTful API with typescript](https://github.com/felipe-allmeida/node-api-boilerplate) | [felipe-allmeida](https://github.com/felipe-allmeida)
+<img src="/images/nodejs-new-pantone-black.svg" width="50px" /> | **TypeScript** | NodeJS - RESTful API with typescript](https://github.com/felipe-allmeida/node-api-boilerplate) | [felipe-allmeida](https://github.com/felipe-allmeida)
