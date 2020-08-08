@@ -30,7 +30,7 @@ Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listad
 
 |       | Projeto | Autores
 :---: | :--- | :---:
-<img src="/images/designpatterns.png" width="50px" /> | [**Design Patterns**]((https://github.com/Pampa-Devs/design-patterns)) | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
+<img src="/images/designpatterns.png" width="50px" /> | [**Design Patterns**](https://github.com/Pampa-Devs/design-patterns) | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
 <img src="/images/rebus.png" width="50px" /> | [**Saga Pattern** - Implementação com .NET Core 3.1 e Rebus](https://github.com/felipe-allmeida/RebusWithRabbitMQ) | [felipe-allmeida](https://github.com/felipe-allmeida)
 
 ## 🔒 Segurança
