@@ -10,32 +10,37 @@ Novos projetos são desenvolvidos pelos membros de nossa comunidade mensalmente.
 
 Caso você queira, também pode checar o nosso canal no [**youtube**](https://www.youtube.com/channel/UC0qwajlgqCKFnyoTbsycMOg) para tutoriais em vídeo!
 
-## Série 4Starters
+## 🧑‍🎓 Série 4Starters
 Se você é iniciante, recomendamos **fortemente** que faça os tutoriais listados aqui. Dentro de fundamentos e conceitos temos introdução a diferentes linguagens, escolha a que você se sentir mais confortável!
 
-|       | Projeto | Autores | Link
-:---: | :--- | :---: | :---:
-<img src="/images/git_logo.png" width="50px" /> | **4Starters** - **Git:** Iniciando em Controle de Versão | [felipe-allmeida](https://github.com/felipe-allmeida) | [git-tutorial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
-<img src="/images/book.png" width="50px" /> | **4Starters** - Fundamentos e Conceitos de Programação | [felipe-allmeida](https://github.com/felipe-allmeida) | [4starters](https://github.com/Pampa-Devs/4starters)
+|       | Projeto | Autores
+:---: | :--- | :---:
+<img src="/images/git_logo.png" width="50px" /> | [**4Starters** - **Git:** Iniciando em Controle de Versão](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md) | [felipe-allmeida](https://github.com/felipe-allmeida)
+<img src="/images/book.png" width="50px" /> | [**4Starters** - Fundamentos e Conceitos de Programação](https://github.com/Pampa-Devs/4starters) | [felipe-allmeida](https://github.com/felipe-allmeida)
 
 
-## Tutoriais
+## 🧑‍💻 Tutoriais
 
-|       | Linguagens | Projeto | Autores | Link
-:---: | :---: | :--- | :---: | :---:
-<img src="/images/csharp.png" width="50px" /> | **C#** | **.NET** - Aplicação Console | [felipe-allmeida](https://github.com/felipe-allmeida) | [csharp-tutorial](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md)
-<img src="/images/swagger.png" width="50px"> | **C#** | Criando uma API Restful com .NET Core 3.1 e Swagger | [felipe-allmeida](https://github.com/felipe-allmeida) | [swagger-tutorial](https://github.com/felipe-allmeida/SwaggerSample)
+|       | Linguagens | Projeto | Autores
+:---: | :---: | :--- | :---:
+<img src="/images/csharp.png" width="50px" /> | **C#** | [**.NET** - Aplicação Console](https://github.com/Go-Horse-Coding/csharp-tutorial/blob/master/README.md) | [felipe-allmeida](https://github.com/felipe-allmeida)
+<img src="/images/swagger.png" width="50px"> | **C#** | [Criando uma API Restful com .NET Core 3.1 e Swagger](https://github.com/felipe-allmeida/SwaggerSample) | [felipe-allmeida](https://github.com/felipe-allmeida)
 
-## Arquitetura de Software
+## 🧱 Arquitetura de Software
 
-|       | Projeto | Autores | Link
-:---: | :--- | :---: | :---:
-<img src="/images/designpatterns.png" width="50px" /> | **Design Patterns** | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar) | [design-patterns](https://github.com/Pampa-Devs/design-patterns)
-<img src="/images/rebus.png" width="50px" /> | **Saga Pattern** - Implementação com .NET Core 3.1 e Rebus | [felipe-allmeida](https://github.com/felipe-allmeida) | [rebuswithrabbitmq](https://github.com/felipe-allmeida/RebusWithRabbitMQ)
+|       | Projeto | Autores
+:---: | :--- | :---:
+<img src="/images/designpatterns.png" width="50px" /> | [**Design Patterns**]((https://github.com/Pampa-Devs/design-patterns)) | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
+<img src="/images/rebus.png" width="50px" /> | [**Saga Pattern** - Implementação com .NET Core 3.1 e Rebus](https://github.com/felipe-allmeida/RebusWithRabbitMQ) | [felipe-allmeida](https://github.com/felipe-allmeida)
 
-## Segurança
+## 🔒 Segurança
 
-|       | Projeto | Autores | Link
-:---: | :--- | :---: | :---:
-<img src="/images/sqlserver.png" width="35px" /> | **SQL IP Allow** - Segurança de filtros por IP/Range no SQL Server | [dliedke](https://github.com/dliedke) | [sqlipallow](https://github.com/dliedke/sqlipallow)
+|       | Projeto | Autores
+:---: | :--- | :---:
+<img src="/images/sqlserver.png" width="35px" /> | [**SQL IP Allow** - Segurança de filtros por IP/Range no SQL Server](https://github.com/dliedke/sqlipallow) | [dliedke](https://github.com/dliedke)
 
+## 🛠️ Em construção 
+
+|       | Projeto | Autores
+:---: | :--- | :---:
+<img src="/images/nodejs-new-pantone-black.svg" width="50px" /> | [**TypeScript** | NodeJS - RESTful API with typescript](https://github.com/felipe-allmeida/node-api-boilerplate) | [felipe-allmeida](https://github.com/felipe-allmeida)
